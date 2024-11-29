@@ -1,0 +1,10 @@
+C:\CShop\FileSaveTest\FileSaveTest\bin\Debug\FileSaveTest.exe.config
+C:\CShop\FileSaveTest\FileSaveTest\bin\Debug\FileSaveTest.exe
+C:\CShop\FileSaveTest\FileSaveTest\bin\Debug\FileSaveTest.pdb
+C:\CShop\FileSaveTest\FileSaveTest\obj\Debug\FileSaveTest.csprojAssemblyReference.cache
+C:\CShop\FileSaveTest\FileSaveTest\obj\Debug\FileSaveTest.FrmMain.resources
+C:\CShop\FileSaveTest\FileSaveTest\obj\Debug\FileSaveTest.Properties.Resources.resources
+C:\CShop\FileSaveTest\FileSaveTest\obj\Debug\FileSaveTest.csproj.GenerateResource.cache
+C:\CShop\FileSaveTest\FileSaveTest\obj\Debug\FileSaveTest.csproj.CoreCompileInputs.cache
+C:\CShop\FileSaveTest\FileSaveTest\obj\Debug\FileSaveTest.exe
+C:\CShop\FileSaveTest\FileSaveTest\obj\Debug\FileSaveTest.pdb
